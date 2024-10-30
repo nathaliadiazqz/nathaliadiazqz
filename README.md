@@ -1,0 +1,13 @@
+ meu nome é nathalia freitas contreras diaz
+
+* Tenho 15 anos e nasci dia 11/01/2009 em Curitiba/PR
+*estudo no Colegio Pa
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+nathaliadiazqz/nathaliadiazqz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
